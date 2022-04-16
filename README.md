@@ -1,4 +1,6 @@
-# Deep-Learning-with-PyTorch-ImageSegmentation.
+##### Deep-Learning-with-PyTorch-ImageSegmentation #####
+
+![img seg](https://user-images.githubusercontent.com/81293137/163672729-6764219d-d4bf-4639-9620-d29727fbcdab.jpg)
 
 Guided project coursera : https://tinyurl.com/yakrwlt3
 *************************************************************************************************************************************************************************
